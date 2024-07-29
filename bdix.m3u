@@ -1,51 +1,51 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", ATN BANGLA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s15KGMR/20240729-011508.png" group-title="BD | ENTERTAINMENT", ATN BANGLA HD
 
-#EXTINF:-2 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", CHANNEL I HD
+#EXTINF:-2 tvg-logo="https://i.ibb.co/LkrrPf4/20240729-014412.png" group-title="BD | ENTERTAINMENT", CHANNEL I HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722230356/ei/9NGmZtDhJsOosfIPqICM6AU/ip/20.172.7.3/id/hjF8VNsG8Ro.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAc2t_kUlUlaUZLAao_zUit9M8rdpA7Py9pz_dCq5nebfhpryO3x5nHZmDG4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMD9ZiXLjkgJwlns9D6TVg60TLfLq2g8l8tzAhdaLPupAiEAqeeYye62oWGQ4bKuSbc5v1mEt9gXsSUXH-oCoSva32k%3D/file/index.m3u8
+#EXTINF:-3 tvg-logo="https://i.ibb.co/9cmD99v/20240729-014717.png" group-title="BD | ENTERTAINMENT", EKUSHEY TV HD
 
-#EXTINF:-3 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", EKUSHEY TV HD
+#EXTINF:-4 tvg-logo="https://i.ibb.co/vwg0Ts0/20240729-015129.png" group-title="BD | ENTERTAINMENT", RTV HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722230357/ei/9dGmZp-cOIupsfIPxuWq0A8/ip/20.172.7.3/id/qXLJc1Wvr4w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAQHqhEWOFXPUDOO9XWLtFfJwBRoF4eB4aykT1h0u1iULJ3rG9cStatBBYYw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAO9U9WDpHRV2V1WcA3TtrPfPrWXkJEJ30Viqm3tX-hO5AiEA615M9Gqfv0Bkek--2uYrnOzqLRolCFsd4DXXD7lDxQQ%3D/file/index.m3u8
+#EXTINF:-5 tvg-logo="https://i.ibb.co/HYY8Nd7/20240729-023358.png" group-title="BD | ENTERTAINMENT", NTV HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722230361/ei/-dGmZte1IcnysfIPuOC7gQw/ip/20.172.7.3/id/BG-tUWW0LR0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAa_9_FaDLc0IHxQNjMjeH7KHicbcwQt32UVLretUPz30X9OiGhEo3rpslXk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJZYcMsb1zwUqG48aFfSrZ8O6ho41lyd6kqd6BMydWWACIQDYjAQuu0R1poB58Vpdgj9k2X4vfZuH8eYLukFSyEs88A%3D%3D/file/index.m3u8
+#EXTINF:-6 tvg-logo="https://i.ibb.co/xfWrtRg/20240729-015410.png" group-title="BD | ENTERTAINMENT", BOISHAKHI TV HD
 
-#EXTINF:-4 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", RTV HD
+#EXTINF:-7 tvg-logo="https://i.ibb.co/MpWybGg/20240729-015455.png" group-title="BD | ENTERTAINMENT", BANGLA VISION HD
 
-#EXTINF:-5 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", NTV HD
+#EXTINF:-8 tvg-logo="https://i.ibb.co/mcJP193/20240729-015211.png" group-title="BD | ENTERTAINMENT", MOHONA TV
 
-#EXTINF:-6 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", BOISHAKHI TV HD
+#EXTINF:-9 tvg-logo="https://i.ibb.co/4SDLSx6/20240729-015552.png" group-title="BD | ENTERTAINMENT", BIJOY TV 
 
-#EXTINF:-7 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", BANGLA VISION HD
+#EXTINF:-10 tvg-logo="https://i.ibb.co/Cm1xNm2/20240729-015715.png" group-title="BD | ENTERTAINMENT", MAASRANGA TV
 
-#EXTINF:-8 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", MOHONA TV
+#EXTINF:-11 tvg-logo="https://i.ibb.co/1G2SCj3/20240729-015844.png" group-title="BD | ENTERTAINMENT", CHANNEL 9 HD
 
-#EXTINF:-9 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", BIJOY TV 
+#EXTINF:-12 tvg-logo="https://i.ibb.co/VvCJZw5/20240729-020029.png" group-title="BD | ENTERTAINMENT", GAZI TV HD
 
-#EXTINF:-10 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", MAASRANGA TV
+#EXTINF:-13 tvg-logo="https://i.ibb.co/x6vvN1j/20240729-020126.png" group-title="BD | ENTERTAINMENT", DEEPTO TV HD
 
-#EXTINF:-11 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", CHANNEL 9 HD
+#EXTINF:-14 tvg-logo="https://i.ibb.co/LPb6qdC/20240729-073726.png" group-title="BD | ENTERTAINMENT", NAGORIK TV
 
-#EXTINF:-12 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", GAZI TV HD
+#EXTINF:-15 tvg-logo="https://i.ibb.co/LPympj8/20240729-073807.png" group-title="BD | ENTERTAINMENT", ANANDA TV
 
-#EXTINF:-13 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", DEEPTO TV HD
+#EXTINF:-16 tvg-logo="https://i.ibb.co/7GHDZpY/20240729-021701.png" group-title="BD | NEWS", SOMOY TV HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722230355/ei/89GmZrrZN8aUsfIP-p2F0AU/ip/20.172.7.3/id/o51pegp_f8k.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAdhEsFYRg7peU3mNIWJHJZQJsGzB8oeszIa5O7MIFjmhFRso4hNRZrYwIlE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFAM0LmpLOI-8Zdqzo2JXGWg3FzgqO2c8pO46dUavMrYCIQDf3vDpwR90uAjvGcUsF_kdU1joI-i171a8a4WhQ0tzyg%3D%3D/file/index.m3u8
+#EXTINF:-17 tvg-logo="https://i.ibb.co/tKN5dKK/20240729-021750.png" group-title="BD | NEWS", INDEPENDENT TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722230358/ei/9tGmZu3ZHbzzsfIPpISPsQE/ip/20.172.7.3/id/126qBCkF-Cw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAawi3VDbX7ndP6UW42fdNXt-_6bOa342aOjWoM4C9mrk8rshDDHeQvV85c8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM6Ha0M5yPkoifvxzIP3um0gAJLr5K6t-uMS05xJqXZGAiEA3FGVwA5FeBbOPD3dqGD6k5CbpLxXq9nABPUgSobu1ic%3D/file/index.m3u8
+#EXTINF:-18 tvg-logo="https://i.ibb.co/tZG9qwF/20240729-022446.png" group-title="BD | NEWS", CHANNEL 24
 
-#EXTINF:-14 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", NAGORIK TV
-
-#EXTINF:-15 tvg-logo="LOGO" group-title="BD | ENTERTAINMENT", ANANDA TV
-
-#EXTINF:-16 tvg-logo="LOGO" group-title="BD | NEWS", SOMOY TV HD
-
-#EXTINF:-17 tvg-logo="LOGO" group-title="BD | NEWS", INDEPENDENT TV
-
-#EXTINF:-18 tvg-logo="LOGO" group-title="BD | NEWS", CHANNEL 24
-
-#EXTINF:-19 tvg-logo="LOGO" group-title="BD | NEWS", EKATTOR TV
-
-#EXTINF:-20 tvg-logo="LOGO" group-title="BD | NEWS", JAMUNA TV
-
-#EXTINF:-21 tvg-logo="LOGO" group-title="BD | NEWS", DBC NEWS HD
-
-#EXTINF:-22 tvg-logo="LOGO" group-title="BD | NEWS", NEWS 24 HD
+#EXTINF:-19 tvg-logo="https://i.ibb.co/7gQqKC8/20240729-021937.png" group-title="BD | NEWS", EKATTOR TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722230359/ei/99GmZpqkDPmYsfIP35fo4AE/ip/20.172.7.3/id/J2PfMd30p9o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166971/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZmrJkZlBg_k5-IbOOybS0vJADorDe2P3pGp8-7-xeo7B7shoMGDNIoKRzg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgETygQsUYy-cl3VvNEZ_-DKPksBkc0m_O_QqJOMoAsI0CIQD_bB9UjkGud8ELO18Eu_vzos9N93DsggkEqzOZR77cow%3D%3D/file/index.m3u8
+#EXTINF:-20 tvg-logo="https://i.ibb.co/CML5qFF/20240729-021911.png" group-title="BD | NEWS", JAMUNA TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722230357/ei/9dGmZsrtE9jHsfIPnvW1uAw/ip/20.172.7.3/id/sU0LXHJLfzw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAcHm4of0AJogBxEUzngEvIoiz4-kXPyVVl6NFv7ZWlHw_aNprHdA3fXnpxY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdgGzyR3ldPvy0Gtvk1YRCi5z96q5xrqZDmQbEMDqlc0CIBelHLVR6V362OGduFpAooJ_5tW2klVsBsdJM6x0v_Ux/file/index.m3u8
+#EXTINF:-21 tvg-logo="https://i.ibb.co/6yyPY1H/20240729-022412.png" group-title="BD | NEWS", DBC NEWS HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722230362/ei/-tGmZv_TKqSWsfIPw5CZwAI/ip/20.172.7.3/id/Vfau3DL_Tt0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225977/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/maudio/1/spc/NO7bATcJKrLG3b5WzUq_ami7F8p4VxnkU59IG2g37bg1jJkoJY6DRxwWyfY1UsQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALhNvKuVEa4Uq4ZJ5DVzxURI7sbrTs8yZ1O_45_P1GocAiEAwYKXj3NoEYpXcXOKEA-hZiZx4_kwJGrTDKkuY33nCg8%3D/file/index.m3u8
+#EXTINF:-22 tvg-logo="https://i.ibb.co/WxYBRkj/20240729-021837.png" group-title="BD | NEWS", NEWS 24 HD
 
 #EXTINF:-23 tvg-logo="LOGO" group-title="BD | NEWS", AVP ANAMDA
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722230369/ei/AdKmZqKhBp7WsfIP0pSMgAU/ip/20.172.7.3/id/PKwLsAu-z10.104/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bARrZePLZX9VSn-G4IijWOwQbw42uQMyd8IgUWH4ny9CWeyLavt6MSBjv70w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAO8eMAEMS3WklWxixIbs0PLnLuS_UH7S-ZL6B2D70s5FAiEA-IbS2S70sYQ0JkYD2s9h2oEr5nAl_p2TVkxd4E8R908%3D/file/index.m3u8
 #EXTINF:-24 tvg-logo="LOGO" group-title="BD | NEWS", TV 9 HD
 
 #EXTINF:-25 tvg-logo="LOGO" group-title="BD | NEWS", ZEE 24 GHONTA
@@ -53,7 +53,7 @@
 #EXTINF:-26 tvg-logo="LOGO" group-title="IND BANGLA | ENTERTAINMENT", STAR JALSHA HD
 
 #EXTINF:-27 tvg-logo="LOGO" group-title="IND BANGLA | ENTERTAINMENT", ZEE BANGLA HD
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #EXTINF:-28 tvg-logo="LOGO" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA HD
 
 #EXTINF:-29 tvg-logo="LOGO" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA CINEMA
@@ -65,11 +65,11 @@
 #EXTINF:-32 tvg-logo="LOGO" group-title="IND BANGLA | ENTERTAINMENT", ZEE BANGLA CINEMA
 
 #EXTINF:-33 tvg-logo="LOGO" group-title="IND BANGLA | ENTERTAINMENT", ENTEER 10 BANGLA
-
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-34 tvg-logo="LOGO" group-title="IND BANGLA | ENTERTAINMENT", SUN BANGLA
 
 #EXTINF:-35 tvg-logo="LOGO" group-title="IND BANGLA | ENTERTAINMENT", AMAR DIGITAL
-
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-36 tvg-logo="LOGO" group-title="KIDS", DURONTO TV HD
 
 #EXTINF:-37 tvg-logo="LOGO" group-title="KIDS", KHUSHBOO BANGLA
@@ -79,7 +79,7 @@
 #EXTINF:-39 tvg-logo="LOGO" group-title="KIDS", SONIC 
 
 #EXTINF:-40 tvg-logo="LOGO" group-title="KIDS", CARTOON NETWORK HD
-
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-41 tvg-logo="LOGO" group-title="KIDS", DISNEY CHANNEL HD
 
 #EXTINF:-42 tvg-logo="LOGO" group-title="KIDS", SONY YAY
@@ -91,7 +91,7 @@
 #EXTINF:-45 tvg-logo="LOGO" group-title="KIDS", MOTU PATLU 24/7
 
 #EXTINF:-46 tvg-logo="LOGO" group-title="IND | ENTERTAINMENT", ZEE TV HD
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-47 tvg-logo="LOGO" group-title="IND | ENTERTAINMENT", STAR PLUS HD
 
 #EXTINF:-48 tvg-logo="LOGO" group-title="IND | ENTERTAINMENT", STAR BHARAT HD
@@ -103,17 +103,17 @@
 #EXTINF:-51 tvg-logo="LOGO" group-title="IND | ENTERTAINMENT", COLORS HD
 
 #EXTINF:-52 tvg-logo="LOGO" group-title="IND | ENTERTAINMENT", & TV HD
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-53 tvg-logo="LOGO" group-title="IND | ENTERTAINMENT", COLORS CINEPLEX HD
 
 #EXTINF:-54 tvg-logo="LOGO" group-title="IND | ENTERTAINMENT", SONY MAX HD
 
 #EXTINF:-55 tvg-logo="LOGO" group-title="IND | ENTERTAINMENT", ZEE CINEMA HD
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-56 tvg-logo="LOGO" group-title="SPORTS", T SPORTS HD
 
 #EXTINF:-57 tvg-logo="LOGO" group-title="SPORTS", SONY SPORTS 1
-
+https://humsab.xyz/In_Hin/index.m3u8
 #EXTINF:-58 tvg-logo="LOGO" group-title="SPORTS", SONY SPORTS 2
 
 #EXTINF:-59 tvg-logo="LOGO" group-title="SPORTS", SKY SPORTS CRICKET 
@@ -123,7 +123,7 @@
 #EXTINF:-61 tvg-logo="LOGO" group-title="SPORTS", TNT SPORTS
 
 #EXTINF:-62 tvg-logo="LOGO" group-title="SPORTS", STAR SPORTS 1
-
+https://humsab.xyz/In_Hin/index.m3u8
 #EXTINF:-63 tvg-logo="LOGO" group-title="SPORTS", STAR SPORTS 2
 
 #EXTINF:-64 tvg-logo="LOGO" group-title="SPORTS", ASTRO SPORTS
@@ -131,19 +131,19 @@
 #EXTINF:-65 tvg-logo="LOGO" group-title="SPORTS", A SPORTS
 
 #EXTINF:-66 tvg-logo="LOGO" group-title="INFOTAINMENT", DISCOVERY BANGLA HD
-
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 #EXTINF:-67 tvg-logo="LOGO" group-title="INFOTAINMENT", NATIONAL GEOGRAPHIT HD
 
 #EXTINF:-68 tvg-logo="LOGO" group-title="INFOTAINMENT", SONY BBC EARTH HD
 
 #EXTINF:-69 tvg-logo="LOGO" group-title="INFOTAINMENT", ANIMAL PLANET HD
-
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-70 tvg-logo="LOGO" group-title="INFOTAINMENT", FOOD FOOD HD
-
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
 #EXTINF:-71 tvg-logo="LOGO" group-title="INFOTAINMENT", LOVE NATURE 4K
-
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-72 tvg-logo="LOGO" group-title="INFOTAINMENT", TRAVEL XP HD
-
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-73 tvg-logo="LOGO" group-title="INFOTAINMENT", NASA TV
 
 #EXTINF:-74 tvg-logo="LOGO" group-title="MUSIC", SANGEET BANGLA
@@ -155,17 +155,17 @@
 #EXTINF:-77 tvg-logo="LOGO" group-title="MUSIC", 9X JALWA
 
 #EXTINF:-78 tvg-logo="LOGO" group-title="MUSIC", SHOW BOX
-
+https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:-79 tvg-logo="LOGO" group-title="MUSIC", 9XM
-
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-80 tvg-logo="LOGO" group-title="MUSIC", BALLEE BALLEE
 
 #EXTINF:-81 tvg-logo="LOGO" group-title="MUSIC", ZOOM
-
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-82 tvg-logo="LOGO" group-title="RELIGIOUS", PEACE TV
 
-#EXTINF:-83 tvg-logo="LOGO" group-title="RELIGIOUS", MAKKAH TV
-
+#EXTINF:-83 tvg-logo="LOGO" group-title="RELIGIOUS", ISLAM BANGLA
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 #EXTINF:-84 tvg-logo="LOGO" group-title="RELIGIOUS", AL SUNNAH
 
 #EXTINF:-85 tvg-logo="LOGO" group-title="RELIGIOUS", ATN ISLAMIC TV
