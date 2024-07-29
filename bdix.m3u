@@ -19,7 +19,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722230361/ei/-
 #EXTINF:-9 tvg-logo="https://i.ibb.co/4SDLSx6/20240729-015552.png" group-title="BD | ENTERTAINMENT", BIJOY TV 
 
 #EXTINF:-10 tvg-logo="https://i.ibb.co/Cm1xNm2/20240729-015715.png" group-title="BD | ENTERTAINMENT", MAASRANGA TV
-
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-11 tvg-logo="https://i.ibb.co/1G2SCj3/20240729-015844.png" group-title="BD | ENTERTAINMENT", CHANNEL 9 HD
 
 #EXTINF:-12 tvg-logo="https://i.ibb.co/VvCJZw5/20240729-020029.png" group-title="BD | ENTERTAINMENT", GAZI TV HD
@@ -63,7 +63,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 #EXTINF:-31 tvg-logo="https://i.ibb.co/KXjB2rn/20240729-023137.png" group-title="IND BANGLA | ENTERTAINMENT", SONY AATH
 
 #EXTINF:-32 tvg-logo="https://i.ibb.co/TvThgR6/20240729-021348.png" group-title="IND BANGLA | ENTERTAINMENT", ZEE BANGLA CINEMA
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-33 tvg-logo="https://i.ibb.co/rtDYMz3/20240729-022939.png" group-title="IND BANGLA | ENTERTAINMENT", ENTEER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-34 tvg-logo="https://i.ibb.co/ZSBsvFk/20240729-021145.png" group-title="IND BANGLA | ENTERTAINMENT", SUN BANGLA
@@ -75,21 +75,21 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 #EXTINF:-37 tvg-logo="https://i.ibb.co/LZdqdXs/20240729-093049.png" group-title="KIDS", KHUSHBOO BANGLA
 
 #EXTINF:-38 tvg-logo="https://i.ibb.co/ZccTScX/20240729-092728.png" group-title="KIDS", NICKELODEON
-
+https://bdix.proximitybd.xyz/xt.php?id=34011
 #EXTINF:-39 tvg-logo="https://i.ibb.co/sJvtZy2/20240729-092828.png" group-title="KIDS", SONIC 
 
 #EXTINF:-40 tvg-logo="https://i.ibb.co/0ZHKq3C/20240729-093154.png" group-title="KIDS", CARTOON NETWORK HD
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-41 tvg-logo="https://i.ibb.co/8xRh2g7/20240729-093305.png" group-title="KIDS", DISNEY CHANNEL HD
-
+https://bdix.proximitybd.xyz/xt.php?id=167551
 #EXTINF:-42 tvg-logo="LOGO" group-title="KIDS", SONY YAY
-
+https://bdix.proximitybd.xyz/xt.php?id=26187
 #EXTINF:-43 tvg-logo="https://i.ibb.co/FYmYv1R/20240729-093528.png" group-title="KIDS", WOW KIDS
-
+https://bdix.proximitybd.xyz/xt.php?id=314753
 #EXTINF:-44 tvg-logo="https://i.ibb.co/mSbDY5B/20240729-093723.png" group-title="KIDS", JUGNU KIDS BANGLA
 
 #EXTINF:-45 tvg-logo="https://i.ibb.co/372ygVx/20240729-094000.png" group-title="KIDS", MOTU PATLU 24/7
-
+https://bdix.proximitybd.xyz/xt.php?id=167551
 #EXTINF:-46 tvg-logo="https://i.ibb.co/P1FT48N/20240729-094702.png" group-title="IND | ENTERTAINMENT", ZEE TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-47 tvg-logo="https://i.ibb.co/6FrKfcs/20240729-094736.png" group-title="IND | ENTERTAINMENT", STAR PLUS HD
@@ -97,7 +97,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-48 tvg-logo="https://i.ibb.co/qyKs2nn/20240729-094804.png" group-title="IND | ENTERTAINMENT", STAR BHARAT HD
 
 #EXTINF:-49 tvg-logo="https://i.ibb.co/kgxxxMV/20240729-095533.png" group-title="IND | ENTERTAINMENT", SONY ENTERTAINMENT HD
-
+https://bdix.proximitybd.xyz/xt.php?id=221251
 #EXTINF:-50 tvg-logo="https://i.ibb.co/9cnQYqg/20240729-094832.png" group-title="IND | ENTERTAINMENT", SONY SAB HD
 
 #EXTINF:-51 tvg-logo="https://i.ibb.co/7Nwb8BR/20240729-094852.png" group-title="IND | ENTERTAINMENT", COLORS HD
@@ -127,9 +127,9 @@ https://humsab.xyz/In_Hin/index.m3u8
 #EXTINF:-63 tvg-logo="LOGO" group-title="SPORTS", STAR SPORTS 2
 
 #EXTINF:-64 tvg-logo="https://i.ibb.co/gJCCrRm/20240729-095633.png" group-title="SPORTS", ASTRO SPORTS
-
+https://beecdn.wadim77289.workers.dev/Willow_Cricket_Live_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-65 tvg-logo="https://i.ibb.co/chWFP9p/20240729-095618.png" group-title="SPORTS", A SPORTS HD
-
+https://evbr.short.gy/Bdstreamhub/telegram_Join_@bdstreamhub/A%20sports.m3u8
 #EXTINF:-66 tvg-logo="https://i.ibb.co/6XxhkXG/20240729-150316.png" group-title="INFOTAINMENT", DISCOVERY BANGLA HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 #EXTINF:-67 tvg-logo="https://i.ibb.co/RhL88Tt/20240729-135402.png" group-title="INFOTAINMENT", NATIONAL GEOGRAPHIT HD
@@ -144,24 +144,24 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-72 tvg-logo="https://i.ibb.co/VTFYPCQ/20240729-135214.png" group-title="INFOTAINMENT", TRAVEL XP HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-73 tvg-logo="https://i.ibb.co/pbRdN8n/20240729-135145.png" group-title="INFOTAINMENT", NASA TV
-
+#EXTINF:-73 tvg-logo="https://i.ibb.co/pbRdN8n/20240735145.png" group-title="INFOTAINMENT", WILD EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-74 tvg-logo="https://i.ibb.co/KGSsFHy/20240729-135103.png" group-title="MUSIC", SANGEET BANGLA
-
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-75 tvg-logo="https://i.ibb.co/gMWL5Z3/20240729-135033.png" group-title="MUSIC", GAAN BANGLA
 
 #EXTINF:-76 tvg-logo="https://i.ibb.co/9srQzgc/20240729-135002.png" group-title="MUSIC", MTV BEAST HD
 
 #EXTINF:-77 tvg-logo="https://i.ibb.co/VxtXVgs/20240729-134904.png" group-title="MUSIC", 9X JALWA
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:-78 tvg-logo="https://i.ibb.co/BKfkjFz/20240729-134806.png" group-title="MUSIC", SHOW BOX
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:-79 tvg-logo="LOGO" group-title="MUSIC", 9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-80 tvg-logo="https://i.ibb.co/2SzGM9t/20240729-134725.png" group-title="MUSIC", BALLEE BALLEE
-
+https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 #EXTINF:-80 tvg-logo="https://i.ibb.co/0cnkTHW/20240729-134829.png" group-title="MUSIC", ZOOM
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 #EXTINF:-82 tvg-logo="https://i.ibb.co/tZMNJjt/20240729-134456.png" group-title="RELIGIOUS", PEACE TV
 
 #EXTINF:-83 tvg-logo="https://i.ibb.co/cbXFTdP/20240729-134639.png" group-title="RELIGIOUS", ISLAM BANGLA
