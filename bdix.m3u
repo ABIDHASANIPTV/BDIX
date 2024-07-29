@@ -130,47 +130,43 @@ https://humsab.xyz/In_Hin/index.m3u8
 
 #EXTINF:-65 tvg-logo="https://i.ibb.co/chWFP9p/20240729-095618.png" group-title="SPORTS", A SPORTS HD
 
-#EXTINF:-66 tvg-logo="LOGO" group-title="INFOTAINMENT", DISCOVERY BANGLA HD
+#EXTINF:-66 tvg-logo="https://i.ibb.co/6XxhkXG/20240729-150316.png" group-title="INFOTAINMENT", DISCOVERY BANGLA HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
-#EXTINF:-67 tvg-logo="LOGO" group-title="INFOTAINMENT", NATIONAL GEOGRAPHIT HD
+#EXTINF:-67 tvg-logo="https://i.ibb.co/RhL88Tt/20240729-135402.png" group-title="INFOTAINMENT", NATIONAL GEOGRAPHIT HD
 
-#EXTINF:-68 tvg-logo="LOGO" group-title="INFOTAINMENT", SONY BBC EARTH HD
+#EXTINF:-68 tvg-logo="https://i.ibb.co/KhTwWG0/20240729-135345.png" group-title="INFOTAINMENT", SONY BBC EARTH HD
 
-#EXTINF:-69 tvg-logo="LOGO" group-title="INFOTAINMENT", ANIMAL PLANET HD
+#EXTINF:-69 tvg-logo="https://i.ibb.co/WD5q5fK/20240729-135321.png" group-title="INFOTAINMENT", ANIMAL PLANET HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-#EXTINF:-70 tvg-logo="LOGO" group-title="INFOTAINMENT", FOOD FOOD HD
+#EXTINF:-70 tvg-logo="https://i.ibb.co/nMG0VTX/20240729-135254.png" group-title="INFOTAINMENT", FOOD FOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
-#EXTINF:-71 tvg-logo="LOGO" group-title="INFOTAINMENT", LOVE NATURE 4K
+#EXTINF:-71 tvg-logo="https://i.ibb.co/6vmvCJC/20240729-135235.png" group-title="INFOTAINMENT", LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-72 tvg-logo="LOGO" group-title="INFOTAINMENT", TRAVEL XP HD
+#EXTINF:-72 tvg-logo="https://i.ibb.co/VTFYPCQ/20240729-135214.png" group-title="INFOTAINMENT", TRAVEL XP HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-73 tvg-logo="LOGO" group-title="INFOTAINMENT", NASA TV
+#EXTINF:-73 tvg-logo="https://i.ibb.co/pbRdN8n/20240729-135145.png" group-title="INFOTAINMENT", NASA TV
 
-#EXTINF:-74 tvg-logo="LOGO" group-title="MUSIC", SANGEET BANGLA
+#EXTINF:-74 tvg-logo="https://i.ibb.co/KGSsFHy/20240729-135103.png" group-title="MUSIC", SANGEET BANGLA
 
-#EXTINF:-75 tvg-logo="LOGO" group-title="MUSIC", GAAN BANGLA
+#EXTINF:-75 tvg-logo="https://i.ibb.co/gMWL5Z3/20240729-135033.png" group-title="MUSIC", GAAN BANGLA
 
-#EXTINF:-76 tvg-logo="LOGO" group-title="MUSIC", MTV BEAST HD
+#EXTINF:-76 tvg-logo="https://i.ibb.co/9srQzgc/20240729-135002.png" group-title="MUSIC", MTV BEAST HD
 
-#EXTINF:-77 tvg-logo="LOGO" group-title="MUSIC", 9X JALWA
+#EXTINF:-77 tvg-logo="https://i.ibb.co/VxtXVgs/20240729-134904.png" group-title="MUSIC", 9X JALWA
 
-#EXTINF:-78 tvg-logo="LOGO" group-title="MUSIC", SHOW BOX
+#EXTINF:-78 tvg-logo="https://i.ibb.co/BKfkjFz/20240729-134806.png" group-title="MUSIC", SHOW BOX
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:-79 tvg-logo="LOGO" group-title="MUSIC", 9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
-#EXTINF:-80 tvg-logo="LOGO" group-title="MUSIC", BALLEE BALLEE
+#EXTINF:-80 tvg-logo="https://i.ibb.co/2SzGM9t/20240729-134725.png" group-title="MUSIC", BALLEE BALLEE
 
-#EXTINF:-81 tvg-logo="LOGO" group-title="MUSIC", ZOOM
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
-#EXTINF:-82 tvg-logo="LOGO" group-title="RELIGIOUS", PEACE TV
+#EXTINF:-80 tvg-logo="https://i.ibb.co/0cnkTHW/20240729-134829.png" group-title="MUSIC", ZOOM
 
-#EXTINF:-83 tvg-logo="LOGO" group-title="RELIGIOUS", ISLAM BANGLA
+#EXTINF:-82 tvg-logo="https://i.ibb.co/tZMNJjt/20240729-134456.png" group-title="RELIGIOUS", PEACE TV
+
+#EXTINF:-83 tvg-logo="https://i.ibb.co/cbXFTdP/20240729-134639.png" group-title="RELIGIOUS", ISLAM BANGLA
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-#EXTINF:-84 tvg-logo="LOGO" group-title="RELIGIOUS", AL SUNNAH
+#EXTINF:-84 tvg-logo="https://i.ibb.co/hWCCrpy/20240729-134424.png" group-title="RELIGIOUS", AL SUNNAH
 
-#EXTINF:-85 tvg-logo="LOGO" group-title="RELIGIOUS", ATN ISLAMIC TV
-
-
-
-
+#EXTINF:-85 tvg-logo="https://i.ibb.co/19ssWPY/20240729-134542.png" group-title="RELIGIOUS", ATN ISLAMIC TV
 
